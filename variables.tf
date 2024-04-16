@@ -7,6 +7,11 @@ variable "network_id" {
   type = string
 }
 
+variable "image_id" {
+  description = "Image ID"
+  type        = string
+}
+
 variable "subnet_zones" {
   type = list(string)
 }
