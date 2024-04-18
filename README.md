@@ -47,6 +47,7 @@ No modules.
 | <a name="input_service_account_id"></a> [service\_account\_id](#input\_service\_account\_id) | n/a | `any` | `null` | no |
 | <a name="input_subnet_ids"></a> [subnet\_ids](#input\_subnet\_ids) | n/a | `list(string)` | n/a | yes |
 | <a name="input_subnet_zones"></a> [subnet\_zones](#input\_subnet\_zones) | n/a | `list(string)` | n/a | yes |
+| <a name="input_subnet_zones"></a> [subnet\_zones](#input\_subnet\_zones) | n/a | `string` | n/a | no |
 
 ## Outputs
 
