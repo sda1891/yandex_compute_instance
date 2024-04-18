@@ -31,6 +31,7 @@ No modules.
 | <a name="input_description"></a> [description](#input\_description) | n/a | `string` | `"TODO: description;"` | no |
 | <a name="input_env_name"></a> [env\_name](#input\_env\_name) | n/a | `string` | `null` | no |
 | <a name="input_image_family"></a> [image\_family](#input\_image\_family) | n/a | `string` | `"ubuntu-2004-lts"` | no |
+| <a name="input_image_id"></a> [image\_id](#input\_image\_family) | n/a | `string` | `""` | no |
 | <a name="input_instance_core_fraction"></a> [instance\_core\_fraction](#input\_instance\_core\_fraction) | n/a | `number` | `100` | no |
 | <a name="input_instance_cores"></a> [instance\_cores](#input\_instance\_cores) | n/a | `number` | `2` | no |
 | <a name="input_instance_count"></a> [instance\_count](#input\_instance\_count) | n/a | `number` | `1` | no |
